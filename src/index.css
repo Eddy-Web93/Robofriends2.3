@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background: linear-gradient(to right, rgb(0, 187, 187), rgb(0, 26, 87));
+}
